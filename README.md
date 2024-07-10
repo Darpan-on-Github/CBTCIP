@@ -1,4 +1,4 @@
-# CBTCIP
+# CBTC
 Title: Cipherbyte Technologies Internship Repository
 
 Description:
