@@ -16,4 +16,5 @@ Open each Python file (e.g., Iris_Flower_Classif.ipynb, Spam Mail Detection.ipyn
 Execute the cells one by one (use the "Run" button or keyboard shortcuts).
 
 Note:
-Ensure the datasets are in the csv format, and should be uploded first to the colab envoirnment and then cells should be executed.
+- Ensure the datasets are in the csv format, and should be uploded first to the colab envoirnment and then cells should be executed.
+- The csv files name might be changed in the code, so rename the file once you upload it in the colab envoirnment.
